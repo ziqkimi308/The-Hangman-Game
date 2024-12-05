@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### The Hangman Game
+# The Hangman Game
 
 - The Hangman Game is a classic word-guessing game where the player tries to guess a randomly chosen word, one letter at a time. The game provides visual feedback using stages of a "hanging man," and the player has a limited number of attempts to guess the correct word.
 
